@@ -1,5 +1,4 @@
 # AW_azure-adf-synapse-project
-# AW_azure-adf-synapse-project
 
 ## Adventure Works Azure Data Engineering Project
 
