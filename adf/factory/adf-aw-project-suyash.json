@@ -1,0 +1,15 @@
+{
+	"name": "adf-aw-project-suyash",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f0d902e6-b05c-4547-832f-eca4c0ce140c",
+		"tenantId": "dbcf152e-4e96-44a1-93b4-b47d2e4e4257"
+	}
+}
